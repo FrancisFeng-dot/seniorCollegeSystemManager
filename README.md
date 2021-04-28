@@ -1,6 +1,6 @@
 # officeweb
 
-> A Vue.js project   官网性质的web端网站
+> A Vue.js project   系统管理平台性质的项目，链接seniorCollegeClient项目
 
 ## Build Setup
 
