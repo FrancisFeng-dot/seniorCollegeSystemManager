@@ -1,6 +1,6 @@
 # officeweb
 
-> A Vue.js project
+> A Vue.js project   官网性质的web端网站
 
 ## Build Setup
 
